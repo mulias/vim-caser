@@ -1,3 +1,7 @@
+# Archived: check out [coerce.nvim](https://github.com/gregorias/coerce.nvim)
+
+I no longer have to maintain my own solution because `coerce.nvim` is implemented in lua and as a result is much more extensible.
+
 # caser.vim
 
 Easily change word casing with motions, text objects or visual mode.
